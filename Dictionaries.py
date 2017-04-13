@@ -6,5 +6,7 @@ print(tel)
 tel ["jane"] = 5432  #inserts into the dictionary 
 print(tel)
 print(tel ["Jerry"]) #looks up the specified thing in dictionary
-del tel["Jerry"]
+del tel["Jerry"] #deletes said person or value.
 print(tel)
+
+#dictionaries are a lot more useful when looking up certain things.
